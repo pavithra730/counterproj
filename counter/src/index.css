@@ -1,0 +1,17 @@
+body{
+    padding: 0;
+    width: 100%;
+    /* margin: 200px auto;
+    text-align: center; */
+    
+}
+button{
+    padding: 10px;
+    margin: 10px;
+}
+.counter{
+    
+    width: 100%;
+    margin: auto;
+    
+}
